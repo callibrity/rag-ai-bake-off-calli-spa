@@ -9,3 +9,4 @@
 *.iml
 *.ipr
 .fleet
+node_modules/*
